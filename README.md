@@ -5,7 +5,7 @@ This project is an unsupervised learning problem. I will be making use of cluste
 The clustering algorithm I will make use of is KMean clustering algorithm
 KMean clustering algorithm is one of the well known algorithm for clustering data. Kmeans algorithm is an iterative algorithm that tries to partition the dataset into Kpre-defined distinct non-overlapping subgroups (clusters) where each data point belongs to only one group. It tries to make the intra-cluster data points as similar as possible while also keeping the clusters as different (far) as possible
 # Problem Statement
-I own a super market and through a membership card, I have some basic data about my customers like CustomersID, age, gender, annual incmome and spending score. I want to understand the customers so that I will have a sense about what each customer is interested in and how I will be able to target them
+I own a super market and through a membership card, I have some basic data about my customers like CustomerID, age, gender, annual incmome and spending score. I want to understand the customers so that I will have a sense about what each customer is interested in and how I will be able to target them
 # Business goal
 My goal is to perform customer segmentation. Customer segmentation is the activity of dividing a broad consumer or business market, normally consisting of existing and potential customers, into sub-groups of consumers based on some type of shared characteristics. I hope to gain a deeper understanding of our customers preferences and to discover what each sub group or cluster finds most valuable to them
 # Data Source

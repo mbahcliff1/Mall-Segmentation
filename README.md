@@ -9,7 +9,7 @@ I own a super market and through a membership card, I have some basic data about
 # Business goal
 My goal is to perform customer segmentation. Customer segmentation is the activity of dividing a broad consumer or business market, normally consisting of existing and potential customers, into sub-groups of consumers based on some type of shared characteristics. I hope to gain a deeper understanding of our customers preferences and to discover what each sub group or cluster finds most valuable to them
 # Data Source
-The data is publicly availabel on the kaggle website
+The data is publicly available on the kaggle website
 # Model:: Unsupervised learning using Kmean Clsutering
 # Looking at the first five rows of my data customers,csv
 ![Capture41](https://user-images.githubusercontent.com/74493164/99184821-c05b4180-2713-11eb-9afe-99f175798071.PNG)

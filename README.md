@@ -13,4 +13,8 @@ The data is publicly availabel on the kaggle website
 # Model:: Unsupervised learning using Kmean Clsutering
 # Looking at the first five rows of my data customers,csv
 ![Capture41](https://user-images.githubusercontent.com/74493164/99184821-c05b4180-2713-11eb-9afe-99f175798071.PNG)
+# Data Visualization
+This involves understanding my dataset by placing it in a visual context so that patterns, trends and correlations that might not notherwise be detected can be exposed
+## Pairplot
+
 
